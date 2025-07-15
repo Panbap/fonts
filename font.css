@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'FrankBellamyiCiel';
+  src: url('./fonts/FrankBellamyiCiel.woff2') format('woff2'),
+       url('./fonts/FrankBellamyiCiel.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'HandOfSeanProiCiel';
+  src: url('./fonts/HandOfSeanProiCiel.woff2') format('woff2'),
+       url('./fonts/HandOfSeanProiCiel.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Calistoga';
+  src: url('./fonts/Calistoga.woff2') format('woff2'),
+       url('./fonts/Calistoga.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SkippySharpiCiel';
+  src: url('./fonts/SkippySharpiCiel.woff2') format('woff2'),
+       url('./fonts/SkippySharpiCiel.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BeauSans';
+  src: url('./fonts/BeauSans.woff2') format('woff2'),
+       url('./fonts/BeauSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
