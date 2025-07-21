@@ -8,7 +8,7 @@ FrankBellamyiCiel
 
 
 📦 Folder Structure
-markdown
+```markdown
 Copy
 Edit
 project-root/
@@ -19,10 +19,10 @@ project-root/
 │
 └── styles/
     └── fonts.css
-    
+```
 ## 🧩 Usage
 Copy the fonts/ folder and fonts.css file into your project.
-
+``` text
 Import fonts.css into your main stylesheet or HTML:
 
 html
@@ -45,6 +45,7 @@ Edit
 body {
   font-family: 'FrankBellamyiCiel', sans-serif;
 }
+```
 ## 📜 License
 Please ensure you have the legal rights to use and distribute each font. Some of them may be open source, while others might have restrictions. Check each font's license individually.
 
