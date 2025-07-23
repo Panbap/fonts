@@ -1,4 +1,40 @@
 @font-face {
+  font-family: 'BeauSans';
+  src: url('./fonts/BeauSans.woff2') format('woff2'),
+       url('./fonts/BeauSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Calistoga';
+  src: url('./fonts/Calistoga.woff2') format('woff2'),
+       url('./fonts/Calistoga.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DeBorstel';
+  src: url('./fonts/DeBorstel.woff2') format('woff2'),
+       url('./fonts/DeBorstel.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dongle';
+  src: url('./fonts/Dongle.woff2') format('woff2'),
+       url('./fonts/Dongle.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'FrankBellamyiCiel';
   src: url('./fonts/FrankBellamyiCiel.woff2') format('woff2'),
        url('./fonts/FrankBellamyiCiel.woff') format('woff');
@@ -17,9 +53,9 @@
 }
 
 @font-face {
-  font-family: 'Calistoga';
-  src: url('./fonts/Calistoga.woff2') format('woff2'),
-       url('./fonts/Calistoga.woff') format('woff');
+  font-family: 'PoetsenOne';
+  src: url('./fonts/PoetsenOne.woff2') format('woff2'),
+       url('./fonts/PoetsenOne.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -29,15 +65,6 @@
   font-family: 'Sriracha';
   src: url('./fonts/Sriracha.woff2') format('woff2'),
        url('./fonts/Sriracha.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'BeauSans';
-  src: url('./fonts/BeauSans.woff2') format('woff2'),
-       url('./fonts/BeauSans.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
